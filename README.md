@@ -16,7 +16,7 @@ https://git-scm.com/downloads
 ![image](https://user-images.githubusercontent.com/101255568/208371396-c628d0ba-81d9-4a69-a251-c44f53c48988.png)
 
 ### MySQL Instalation
-
+<img width="1439" alt="Screen Shot 2022-12-19 at 14 34 19" src="https://user-images.githubusercontent.com/101255568/208371754-03b68d75-21c1-42ea-8250-de56bcc8228f.png">
 
 ### DB Connection
 
