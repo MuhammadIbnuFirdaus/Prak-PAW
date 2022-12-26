@@ -70,7 +70,9 @@ https://git-scm.com/downloads
 
 ### Single Page App with React & React-router
 
+
 ### Dynamic Web Page using Laravel
+![Screen Shot 2022-12-27 at 00 59 03](https://user-images.githubusercontent.com/101255568/209573567-1c5fa673-e722-43b7-90c2-4d0c63c8338a.png)
 
 ### Web Service using Slim
 
