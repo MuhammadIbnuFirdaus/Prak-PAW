@@ -51,6 +51,7 @@ https://git-scm.com/downloads
 <img width="1438" alt="Screen Shot 2022-12-26 at 22 48 15" src="https://user-images.githubusercontent.com/101255568/209565084-1c353545-7f4a-4dd0-a9bf-400c2553830e.png">
 
 ### HTTP GET & POST using Form Action and Fetch API
+![Screen Shot 2022-12-27 at 00 11 32](https://user-images.githubusercontent.com/101255568/209571235-152528b6-e7fe-441f-b62b-bd76d094a297.png)
 
 ### PHP DB - Dynamic Web Page
 <img width="1440" alt="Screen Shot 2022-12-26 at 23 15 15" src="https://user-images.githubusercontent.com/101255568/209566986-22365d09-a512-4238-9f56-1c862f5dc6d8.png">
