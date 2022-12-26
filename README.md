@@ -18,7 +18,20 @@ https://git-scm.com/downloads
 ### MySQL Instalation
 <img width="1439" alt="Screen Shot 2022-12-19 at 14 34 19" src="https://user-images.githubusercontent.com/101255568/208371754-03b68d75-21c1-42ea-8250-de56bcc8228f.png">
 
-### DB Connection
+### DBeaver installation & DB connection
+![DBeaver](https://user-images.githubusercontent.com/101255568/209560049-33446e1d-6993-4a25-b893-d05312a7ecf6.jpeg)
 
 
-### MobaXterm & SSH Connection
+### MobaXterm installation & SSH connection
+![MobaXterm](https://user-images.githubusercontent.com/101255568/209560117-26d5150f-c6c3-4fac-aa21-82216afb71a4.png)
+
+### NodeJS & NPM installation, operation & hello world
+![NodeJS](https://user-images.githubusercontent.com/101255568/209560215-fd6e0ef3-9f68-4068-aa2d-6b53fb39e296.png)
+
+### Linux server operation
+
+
+### Nginx / Apache web server installation & operation
+<img width="1440" alt="Screen Shot 2022-12-26 at 21 47 32" src="https://user-images.githubusercontent.com/101255568/209560467-c43b56bd-ef47-4148-9a2f-ed2ad1725aaa.png">
+
+
