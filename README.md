@@ -34,4 +34,41 @@ https://git-scm.com/downloads
 ### Nginx / Apache web server installation & operation
 <img width="1440" alt="Screen Shot 2022-12-26 at 21 47 32" src="https://user-images.githubusercontent.com/101255568/209560467-c43b56bd-ef47-4148-9a2f-ed2ad1725aaa.png">
 
+### Cpanel operation
 
+### Domain registration
+
+
+### HTML Responsive Layout with Media Query & Flexbox
+![Screen Shot 2022-12-26 at 22 14 44 (2)](https://user-images.githubusercontent.com/101255568/209562872-cd201387-a1e3-4649-885c-3b3b4efeaa0e.png)
+![Screen Shot 2022-12-26 at 22 15 33 (2)](https://user-images.githubusercontent.com/101255568/209562875-0b163753-9280-4fad-9eb9-e9c8324d59c4.png)
+
+### Javascript Data Transformation
+![Screen Shot 2022-12-26 at 22 24 44](https://user-images.githubusercontent.com/101255568/209563404-fdade843-4a9c-4216-906c-317fc18880f0.png)
+
+### Browser API - Event Handling, Local Storage, Element manipulation
+<img width="1438" alt="Screen Shot 2022-12-26 at 22 48 15" src="https://user-images.githubusercontent.com/101255568/209565084-1c353545-7f4a-4dd0-a9bf-400c2553830e.png">
+
+### HTTP GET & POST using Form Action and Fetch API
+
+### PHP DB - Dynamic Web Page
+
+### PHP DB - Web Service
+![Screen Shot 2022-12-26 at 23 00 59](https://user-images.githubusercontent.com/101255568/209565906-9f361577-0a91-4967-bb6e-9bdefed4e770.png)
+
+### OOP-based PHP Project using Composer
+
+### Deploy PHP Project to Cpanel
+
+### HTML Responsive Layout with Bootstrap
+<img width="1440" alt="Screen Shot 2022-12-26 at 23 15 15" src="https://user-images.githubusercontent.com/101255568/209566986-22365d09-a512-4238-9f56-1c862f5dc6d8.png">
+![Screen Shot 2022-12-26 at 23 19 04](https://user-images.githubusercontent.com/101255568/209567101-e18a6055-c546-4cd8-af90-bb350cce018f.png)
+
+### Single Page App with React & React-router
+
+### Dynamic Web Page using Laravel
+
+### Web Service using Slim
+
+### News Site using Wordpress
+![Screen Shot 2022-12-26 at 23 26 14](https://user-images.githubusercontent.com/101255568/209567641-be7f8c9e-716b-4761-836d-c3b6d0314ed9.png)
