@@ -54,7 +54,7 @@ https://git-scm.com/downloads
 ### PHP DB - Dynamic Web Page
 
 ### PHP DB - Web Service
-![Screen Shot 2022-12-26 at 23 00 59](https://user-images.githubusercontent.com/101255568/209565906-9f361577-0a91-4967-bb6e-9bdefed4e770.png)
+![Screen Shot 2022-12-26 at 23 30 15](https://user-images.githubusercontent.com/101255568/209567866-2422d02f-8c43-4923-a52b-ea7b396ce0d1.png)
 
 ### OOP-based PHP Project using Composer
 
@@ -62,7 +62,7 @@ https://git-scm.com/downloads
 
 ### HTML Responsive Layout with Bootstrap
 <img width="1440" alt="Screen Shot 2022-12-26 at 23 15 15" src="https://user-images.githubusercontent.com/101255568/209566986-22365d09-a512-4238-9f56-1c862f5dc6d8.png">
-![Screen Shot 2022-12-26 at 23 19 04](https://user-images.githubusercontent.com/101255568/209567101-e18a6055-c546-4cd8-af90-bb350cce018f.png)
+![Screen Shot 2022-12-26 at 23 33 44](https://user-images.githubusercontent.com/101255568/209568158-385fe6dd-e2da-4bea-bbb1-11740b256a07.png)
 
 ### Single Page App with React & React-router
 
