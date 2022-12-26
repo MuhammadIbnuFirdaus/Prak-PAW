@@ -61,7 +61,7 @@ https://git-scm.com/downloads
 
 ### OOP-based PHP Project using Composer
 
-### Deploy PHP Project to Cpanel
+### Deploy PHP Project to Cpanel (Deploy menggunakan 000webhost)
 <img width="1440" alt="Screen Shot 2022-12-27 at 00 14 10" src="https://user-images.githubusercontent.com/101255568/209570811-f83e1c79-b649-494f-a7ca-05dcd6b4079c.png">
 
 ### HTML Responsive Layout with Bootstrap
