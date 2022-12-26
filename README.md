@@ -56,11 +56,12 @@ https://git-scm.com/downloads
 <img width="1440" alt="Screen Shot 2022-12-26 at 23 15 15" src="https://user-images.githubusercontent.com/101255568/209566986-22365d09-a512-4238-9f56-1c862f5dc6d8.png">
 
 ### PHP DB - Web Service
-![Screen Shot 2022-12-26 at 23 30 15](https://user-images.githubusercontent.com/101255568/209567866-2422d02f-8c43-4923-a52b-ea7b396ce0d1.png)
+![Screen Shot 2022-12-27 at 00 11 32](https://user-images.githubusercontent.com/101255568/209570644-887214ad-a4fd-4666-89e4-7bcaa2495993.png)
 
 ### OOP-based PHP Project using Composer
 
 ### Deploy PHP Project to Cpanel
+<img width="1440" alt="Screen Shot 2022-12-27 at 00 14 10" src="https://user-images.githubusercontent.com/101255568/209570811-f83e1c79-b649-494f-a7ca-05dcd6b4079c.png">
 
 ### HTML Responsive Layout with Bootstrap
 <img width="1440" alt="Screen Shot 2022-12-26 at 23 15 15" src="https://user-images.githubusercontent.com/101255568/209566986-22365d09-a512-4238-9f56-1c862f5dc6d8.png">
