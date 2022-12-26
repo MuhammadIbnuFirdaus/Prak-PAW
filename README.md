@@ -29,15 +29,16 @@ https://git-scm.com/downloads
 ![NodeJS](https://user-images.githubusercontent.com/101255568/209560215-fd6e0ef3-9f68-4068-aa2d-6b53fb39e296.png)
 
 ### Linux server operation
-
+![Linux](https://user-images.githubusercontent.com/101255568/209569295-91db080f-2b35-4f8f-bd71-6f7d650ff1a0.jpeg)
 
 ### Nginx / Apache web server installation & operation
 <img width="1440" alt="Screen Shot 2022-12-26 at 21 47 32" src="https://user-images.githubusercontent.com/101255568/209560467-c43b56bd-ef47-4148-9a2f-ed2ad1725aaa.png">
 
 ### Cpanel operation
+![Cpanel](https://user-images.githubusercontent.com/101255568/209569377-eea4b658-0a8e-4f3c-b0e5-363d4d8ad7d0.jpeg)
 
 ### Domain registration
-
+<img width="365" alt="Screen Shot 2022-12-26 at 23 58 25" src="https://user-images.githubusercontent.com/101255568/209569699-e1e728d1-c331-408c-b8d3-e0852f2d4618.png">
 
 ### HTML Responsive Layout with Media Query & Flexbox
 ![Screen Shot 2022-12-26 at 22 14 44 (2)](https://user-images.githubusercontent.com/101255568/209562872-cd201387-a1e3-4649-885c-3b3b4efeaa0e.png)
@@ -52,6 +53,7 @@ https://git-scm.com/downloads
 ### HTTP GET & POST using Form Action and Fetch API
 
 ### PHP DB - Dynamic Web Page
+<img width="1440" alt="Screen Shot 2022-12-26 at 23 15 15" src="https://user-images.githubusercontent.com/101255568/209566986-22365d09-a512-4238-9f56-1c862f5dc6d8.png">
 
 ### PHP DB - Web Service
 ![Screen Shot 2022-12-26 at 23 30 15](https://user-images.githubusercontent.com/101255568/209567866-2422d02f-8c43-4923-a52b-ea7b396ce0d1.png)
